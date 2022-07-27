@@ -8,3 +8,4 @@ const user = {
 //user[profecion] = "programer";
 user["profecion"] = "programer";
 console.log("user", user);
+let Serduck;
