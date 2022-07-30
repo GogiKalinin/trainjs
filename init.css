@@ -5,3 +5,45 @@
 .leave_button {
     color: rgb(209, 217, 57);
 }
+
+h1 {
+    text-align: center;
+}
+
+.parklist {
+    border: 1px solid rgb(0, 0, 0);
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.parklist_header {
+    
+}
+
+.parklist_item {
+    border: 1px solid red;
+    width: 100%;
+    display: flex;
+}
+
+.parklist_item_name {
+    border: 1px solid rgb(0, 0, 0);
+    width: 45%;
+    text-align: center;
+}
+
+.parklist_item_mark {
+    border: 1px solid rgb(0, 0, 0);
+    width: 45%;
+    text-align: center;
+}
+
+.parklist_item_number {
+    width: 10%;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    
+}
